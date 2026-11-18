@@ -1,0 +1,37 @@
+<div align="center">
+
+  <!-- RETRO PHOSPHOR TERMINAL HEADER -->
+  <a href="https://github.com/vamsipoluru2">
+    <img alt="Vamsi Poluru Terminal Profile" src="./assets/svg/dark.svg" width="100%">
+  </a>
+
+  <!-- RETRO TERMINAL THEMED LIVE GITHUB STATS FRAME -->
+  <a href="https://github.com/vamsipoluru2">
+    <img src="./assets/svg/github_stats.svg" alt="Retro Terminal GitHub Stats" width="100%" style="margin-top: 15px;">
+  </a>
+
+  <!-- REPOSITORY SHOWCASE (generated in-house by scripts/build_profile_svg.py) -->
+  <a href="https://github.com/vamsipoluru2?tab=repositories">
+    <img src="./assets/svg/repos.svg" alt="Recent Repositories" width="100%" style="margin-top: 15px;">
+  </a>
+
+  <!-- CONTRIBUTION SNAKE (grid by Platane/snk in CI, framed by scripts/build_profile_svg.py) -->
+  <img src="./assets/svg/snake.svg" alt="Contribution Snake" width="100%" style="margin-top: 15px;">
+
+  <!-- LIVE VISITOR PING (1px, invisible).-->
+  <img src="https://komarev.com/ghpvc/?username=vamsipoluru2&style=flat&color=38BDF8&label=+" alt="" width="1" height="1">
+
+  <!-- CYBER CAT EYES GIF -->
+  <img src="./assets/img/cat-eyes.gif" alt="Cyber Cat Eyes" width="100%" style="border-radius: 14px; border: 1px solid #1E293B; margin-top: 15px;">
+
+  <!-- GLOWING VISITOR COUNTER (total refreshed every 6h by CI) -->
+  <a href="https://github.com/vamsipoluru2">
+    <img src="./assets/svg/visitor_counter.svg" alt="Profile Visitors" width="100%" style="margin-top: 15px;">
+  </a>
+
+  <!-- Prefer a number that updates instantly instead of every 6h? Swap the
+       block above for this live badge (it counts and displays in one shot):
+  <img src="https://komarev.com/ghpvc/?username=vamsipoluru2&style=for-the-badge&color=38BDF8&label=PROFILE+VISITORS" alt="Profile Visitors">
+  -->
+
+</div>
