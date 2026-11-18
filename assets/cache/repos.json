@@ -1,5 +1,12 @@
 [
   {
+    "name": "java-dsa",
+    "description": "This is my java-dsa practise from kunal kuswaha playlist ",
+    "language": "Java",
+    "stars": 0,
+    "forks": 0
+  },
+  {
     "name": "vamsipoluruportfolio",
     "description": "",
     "language": "",
@@ -14,20 +21,6 @@
     "forks": 0
   },
   {
-    "name": "portfolio",
-    "description": "Interactive personal portfolio featuring GitHub projects, profile information, and searchable repository data.",
-    "language": "TypeScript",
-    "stars": 0,
-    "forks": 0
-  },
-  {
-    "name": "java-dsa",
-    "description": "This is my java-dsa practise from kunal kuswaha playlist ",
-    "language": "Java",
-    "stars": 0,
-    "forks": 0
-  },
-  {
     "name": "python-for-ai",
     "description": "",
     "language": "Python",
@@ -38,6 +31,13 @@
     "name": "Manhattan_2025",
     "description": "This Repo contains all the Manhattan learnings of 2025",
     "language": "JavaScript",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "name": "kunalGit",
+    "description": "",
+    "language": "",
     "stars": 0,
     "forks": 0
   }
